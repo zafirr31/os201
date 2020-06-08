@@ -1,0 +1,37 @@
+Script started on 2020-06-08 16:46:00+07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="150" LINES="34"]
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1[01;32m[zafirr@zafirr[01;37m tahap1[01;32m]$[00m PS1="$ "
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1$ echo $GitHubUser
+zafirr31
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1$ eval $PSTAMP
+200608-164614-29a5-tahap1/> 
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1$ PS1="\$(eval \$PSTAMP)"
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1200608-164617-4b4e-tahap1/> echo -e $CEKSAYA
+zafirr31 ZCZCSCRIPTSTART 200601-091037 zafirr31
+zafirr31 zafirr31 200601-091051-5114-UAS/ 200601-091051 SEQOK SUMOK 51141773
+zafirr31 zafirr31 200601-091055-4413-UAS/ 200601-091055 SEQOK SUMOK 4413c8fd
+zafirr31 zafirr31 200601-091058-44ba-UAS/ 200601-091058 SEQOK SUMOK 44ba7f71
+zafirr31 zafirr31 200601-091109-8b2e-UAS/ 200601-091109 SEQOK SUMOK 8b2e7305
+zafirr31 ZCZCSCRIPTSTOP 200601-091115 zafirr31
+
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1200608-164619-80fa-tahap1/> echo -e $CEKSEBELA1
+zafirr31 ZCZCSCRIPTSTART 200606-083347 zakiysaputra
+zafirr31 zakiysaputra 200606-203352-7644-muhammad.zakiy/ 200606-203352 SEQOK SUMOK 764419e2
+zafirr31 zakiysaputra 200606-203355-4685-muhammad.zakiy/ 200606-203355 SEQOK SUMOK 46859ebc
+zafirr31 zakiysaputra 200606-203357-dd00-muhammad.zakiy/ 200606-203357 SEQOK SUMOK dd00dfe5
+zafirr31 zakiysaputra 200606-203403-b9dc-muhammad.zakiy/ 200606-203403 SEQOK SUMOK b9dc76b9
+zafirr31 ZCZCSCRIPTSTOP 200606-083410 zakiysaputra
+
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1200608-164621-2fd0-tahap1/> echo -e $CEKSEBELA2
+zafirr31 ZCZCSCRIPTSTART 700101-000000 zxrsvy
+zafirr31 zxrsvy 200603-171408-55e3-shella.gabriella/ 200603-171408 SEQOK SUMOK 55e353ce
+zafirr31 zxrsvy 200603-171413-7dd2-shella.gabriella/ 200603-171413 SEQOK SUMOK 7dd2967b
+zafirr31 zxrsvy 200603-171517-f049-shella.gabriella/ 200603-171517 SEQOK SUMOK f049034f
+zafirr31 zxrsvy 200603-171536-9a3a-shella.gabriella/ 200603-171536 SEQOK SUMOK 9a3a9266
+zafirr31 ZCZCSCRIPTSTOP 700101-000000 zxrsvy
+
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/solve_uas/tahap1200608-164623-4ad6-tahap1/> exit
+exit
+
+Script done on 2020-06-08 16:46:25+07:00 [COMMAND_EXIT_CODE="0"]
