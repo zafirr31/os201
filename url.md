@@ -2,7 +2,6 @@
 layout: post
 title:  "Kumpulan URL"
 description: os201
-permalink: /URLs/
 categories: os201
 ---
 
