@@ -1,37 +1,37 @@
-Script started on 2020-06-08 18:07:33+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+Script started on 2020-06-08 18:28:22+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
 ]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS[01;32m[zafirr@zafirr[01;37m UAS[01;32m]$[00m PS1="$ "
 ]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS$ echo $GitHubUser
 zafirr31
 ]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS$ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 ]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS$ eval $PSTAMP
-200608-180742-d1b0-UAS/> 
+200608-182835-a6b5-UAS/> 
 ]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS$ PS1="\$(eval \$PSTAMP)"
-]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-180745-a56c-UAS/> echo -e $CEKSAYA
-2020-06-01 09:11:09 2020-06-01 09:11:15 zafirr31 ZCZCSCRIPTSTART 200601-091037 zafirr31
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-182837-1a7e-UAS/> echo -e $CEKSAYA
+zafirr31 ZCZCSCRIPTSTART 200601-091037 zafirr31
 zafirr31 zafirr31 200601-091051-5114-UAS/ 200601-091051 SEQOK SUMOK 51141773
 zafirr31 zafirr31 200601-091055-4413-UAS/ 200601-091055 SEQOK SUMOK 4413c8fd
 zafirr31 zafirr31 200601-091058-44ba-UAS/ 200601-091058 SEQOK SUMOK 44ba7f71
 zafirr31 zafirr31 200601-091109-8b2e-UAS/ 200601-091109 SEQOK SUMOK 8b2e7305
 zafirr31 ZCZCSCRIPTSTOP 200601-091115 SEQOK
 
-]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-180747-e5fa-UAS/> echo -e $CEKSEBELA1
-2020-06-06 20:34:03 2020-06-06 20:34:10 zafirr31 ZCZCSCRIPTSTART 200606-203347 zakiysaputra
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-182838-9c9d-UAS/> echo -e $CEKSEBELA1
+zafirr31 ZCZCSCRIPTSTART 200606-203347 zakiysaputra
 zafirr31 zakiysaputra 200606-203352-7644-muhammad.zakiy/ 200606-203352 SEQOK SUMOK 764419e2
 zafirr31 zakiysaputra 200606-203355-4685-muhammad.zakiy/ 200606-203355 SEQOK SUMOK 46859ebc
 zafirr31 zakiysaputra 200606-203357-dd00-muhammad.zakiy/ 200606-203357 SEQOK SUMOK dd00dfe5
 zafirr31 zakiysaputra 200606-203403-b9dc-muhammad.zakiy/ 200606-203403 SEQOK SUMOK b9dc76b9
 zafirr31 ZCZCSCRIPTSTOP 200606-203410 SEQOK
 
-]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-180750-2977-UAS/> echo -e $CEKSEBELA2
-2020-06-03 17:15:36 1970-01-01 00:00:00 zafirr31 ZCZCSCRIPTSTART 700101-000000 zxrsvy
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-182840-274a-UAS/> echo -e $CEKSEBELA2
+zafirr31 ZCZCSCRIPTSTART ERROR zxrsvy
 zafirr31 zxrsvy 200603-171408-55e3-shella.gabriella/ 200603-171408 SEQOK SUMOK 55e353ce
 zafirr31 zxrsvy 200603-171413-7dd2-shella.gabriella/ 200603-171413 SEQOK SUMOK 7dd2967b
 zafirr31 zxrsvy 200603-171517-f049-shella.gabriella/ 200603-171517 SEQOK SUMOK f049034f
 zafirr31 zxrsvy 200603-171536-9a3a-shella.gabriella/ 200603-171536 SEQOK SUMOK 9a3a9266
-zafirr31 ZCZCSCRIPTSTOP 700101-000000 SEQNO
+zafirr31 ZCZCSCRIPTSTOP ERROR SEQNO
 
-]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-180752-35ea-UAS/> exit
+]0;zafirr@zafirr:~/Documents/SEMESTER_4/OS/os201/UAS200608-182842-556f-UAS/> exit
 exit
 
-Script done on 2020-06-08 18:07:54+07:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2020-06-08 18:28:44+07:00 [COMMAND_EXIT_CODE="0"]
